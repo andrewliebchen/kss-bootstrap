@@ -46,7 +46,7 @@ module.exports = function (grunt) {
         'styleguide-template/**/*',
         'assets/stylesheets/styleguide.md'
       ],
-      tasks: ['kss:build'],
+      tasks: ['kss'],
       options: {
         spawn: false,
         livereload: true
