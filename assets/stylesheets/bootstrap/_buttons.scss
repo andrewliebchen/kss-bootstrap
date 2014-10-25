@@ -1,6 +1,19 @@
-//
 // Buttons
-// --------------------------------------------------
+//
+// Use any of the available button classes to quickly create a styled button.
+//
+// Markup:
+// <button type="button" class="btn {$modifiers}">Click me</button>
+//
+// .btn-default - Default
+// .btn-primary - Provides extra visual weight and identifies the primary action in a set of buttons
+// .btn-success - Indicates a successful or positive action
+// .btn-info    - Contextual button for informational alert messages
+// .btn-warning - Indicates caution should be taken with this action
+// .btn-danger  - Indicates a dangerous or potentially negative action
+// .btn-link    - Deemphasize a button by making it look like a link while maintaining button behavior
+//
+// Styleguide 1.1
 
 
 // Base styles
